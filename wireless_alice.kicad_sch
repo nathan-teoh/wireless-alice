@@ -5291,7 +5291,7 @@
     (property "Value" "MX-NoLED" (id 1) (at 394.5382 152.4254 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" (id 2) (at 377.825 156.845 0)
+    (property "Footprint" "yeye:SW_Cherry_MX_2.25u_PCB_Flipped" (id 2) (at 377.825 156.845 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (id 3) (at 377.825 156.845 0)
@@ -6308,7 +6308,7 @@
     (property "Value" "MX-NoLED" (id 1) (at 144.3482 129.5654 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" (id 2) (at 127.635 133.985 0)
+    (property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.50u_PCB" (id 2) (at 127.635 133.985 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (id 3) (at 127.635 133.985 0)
@@ -6916,7 +6916,7 @@
     (property "Value" "MX-NoLED" (id 1) (at 376.7582 175.2854 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_2.75u_PCB" (id 2) (at 360.045 179.705 0)
+    (property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.75u_PCB" (id 2) (at 360.045 179.705 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (id 3) (at 360.045 179.705 0)
@@ -8043,7 +8043,7 @@
     (property "Value" "MX-NoLED" (id 1) (at 378.0282 176.5554 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.75u_PCB" (id 2) (at 361.315 180.975 0)
+    (property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_2.75u_PCB" (id 2) (at 361.315 180.975 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (id 3) (at 361.315 180.975 0)
@@ -9084,7 +9084,7 @@
       (reference "MX4") (unit 1) (value "MX-NoLED") (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB")
     )
     (path "/687a989c-2739-4b69-8c5b-8b9ab4b489fd"
-      (reference "MX5") (unit 1) (value "MX-NoLED") (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB")
+      (reference "MX5") (unit 1) (value "MX-NoLED") (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.50u_PCB")
     )
     (path "/ff939585-5e0a-465d-b32b-de7b8cc8a32a"
       (reference "MX6") (unit 1) (value "MX-NoLED") (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.75u_PCB")
@@ -9267,19 +9267,19 @@
       (reference "MX60") (unit 1) (value "MX-NoLED") (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB")
     )
     (path "/d4f1d07e-6b45-4bbf-a257-6e89fccb808c"
-      (reference "MX61") (unit 1) (value "MX-NoLED") (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.75u_PCB")
+      (reference "MX61") (unit 1) (value "MX-NoLED") (footprint "Button_Switch_Keyboard:SW_Cherry_MX_2.75u_PCB")
     )
     (path "/1006cd0b-337b-4242-baa4-93d9ca4e4554"
       (reference "MX62") (unit 1) (value "MX-NoLED") (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB")
     )
     (path "/9a06ce17-9699-412c-bb48-ad3e933713c1"
-      (reference "MX62A1") (unit 1) (value "MX-NoLED") (footprint "Button_Switch_Keyboard:SW_Cherry_MX_2.75u_PCB")
+      (reference "MX62A1") (unit 1) (value "MX-NoLED") (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.75u_PCB")
     )
     (path "/67f821c6-9856-4a62-b9ed-081569ce84f5"
       (reference "MX62A2") (unit 1) (value "MX-NoLED") (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB")
     )
     (path "/1db58005-d85d-46fc-9246-2aa60e8872e8"
-      (reference "MX63") (unit 1) (value "MX-NoLED") (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB")
+      (reference "MX63") (unit 1) (value "MX-NoLED") (footprint "yeye:SW_Cherry_MX_2.25u_PCB_Flipped")
     )
     (path "/744dee25-d236-49b7-a100-a996af94024c"
       (reference "MX64") (unit 1) (value "MX-NoLED") (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.50u_PCB")
